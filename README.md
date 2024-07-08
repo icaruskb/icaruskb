@@ -2,6 +2,10 @@
 
 ![2818c0558283a56be34d3ff5af279909](https://github.com/icaruskb/icaruskb/assets/107133872/d09fe7d2-afa1-4eb9-9184-80cd93734323)
 
+<p align="center">
+  <img src="https://github.com/icaruskb/icaruskb/assets/107133872/d09fe7d2-afa1-4eb9-9184-80cd93734323" alt="animated" />
+</p>
+
 <h1 align="center">👋 Hi I'm Ralph! 👋</h1>
 <div class = "left-aligned">
     <p>👨‍💻 Computer Science student at the University of Houston</p>
