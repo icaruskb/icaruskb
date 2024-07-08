@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi I'm Ralph! 👋</h1>
 <div class = "left-aligned">
-    👨‍💻 Computer Science student at the University of Houston
-    💭 Passionate about UI / UX and Game Development
+    <p>👨‍💻 Computer Science student at the University of Houston</p>
+    <p>💭 Passionate about UI / UX and Game Development</p>
 </div>
 
 <h2 align="center">💫 Languages and Frameworks 💫</h2>
