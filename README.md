@@ -4,7 +4,7 @@
 <div class = "left-aligned">
     👨‍💻 Computer Science student at the University of Houston
     💭 Passionate about UI / UX and Game Development
-    🔗 [Connect with me](https://www.linkedin.com/in/raphael-co/)
+    🔗 ss [Connect with me](https://www.linkedin.com/in/raphael-co/)
 </ol>
 
 <h2 align="center">💫 Languages and Frameworks 💫</h2>
