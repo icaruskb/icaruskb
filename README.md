@@ -1,4 +1,4 @@
-    🔗 [Connect with me](https://www.linkedin.com/in/raphael-co/)
+🔗 [Connect with me](https://www.linkedin.com/in/raphael-co/)
 <h1 align="center">👋 Hi I'm Ralph! 👋</h1>
 <div class = "left-aligned">
     👨‍💻 Computer Science student at the University of Houston
