@@ -1,3 +1,7 @@
+<h1 align="center">👋 Hi I'm Ralph! 👋</h1>
+
+
+
 <h2 align="center">💫 Languages and Frameworks 💫</h2>
 <br/>
 <div align="center">
