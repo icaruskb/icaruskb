@@ -1,8 +1,4 @@
-<style>
-    .left-aligned {
-        text-align: left;
-    }
-</style>
+
 
 <h1 align="center">👋 Hi I'm Ralph! 👋</h1>
     <p class="left-aligned">👨‍💻 Computer Science student at the University of Houston</p>
